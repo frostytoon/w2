@@ -8,7 +8,7 @@ What must you do after creating a variable?
 initalise it
 What does the word 'string' mean?
 it uses characters rather than numbers
-What key work (abreviation) is used to create a function?
+What key work (abbreviation) is used to create a function?
 
 What symbol means 'is of type'?
 
